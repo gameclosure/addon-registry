@@ -1,3 +1,41 @@
 {
-	"type": "core"
+	"type": "core",
+	"versions": [
+		{
+			"version": "0.1.2",
+			"repo": "https://github.com/gameclosure/native-ios.git",
+			"commit": "0535dc1210876dedf407928d7fd2eae729c5181b",
+			"basil": ["*"]
+		}
+	],
+	"description": "",
+	"maintainers": [
+		{
+			"name": "Jared Petker",
+			"email": "jared@gameclosure.com",
+			"web": "gameclosure.com"
+		},
+		{
+			"name": "Derek Burch",
+			"email": "derek@gameclosure.com",
+			"web": "gameclosure.com"
+		},
+		{
+			"name": "Chris Taylor",
+			"email": "chris@gameclosure.com",
+			"web": "gameclosure.com"
+		},
+		{
+			"name": "Tom Fairfield",
+			"email": "tom@gameclosure.com",
+			"web": "gameclosure.com"
+		},
+		{
+			"name": "Martin Hunt",
+			"email": "martin@gameclosure.com",
+			"web": "gameclosure.com"
+		}
+	],
+	"bugs": "https://github.com/gameclosure/native-ios/issues",
+	"keywords": "native ios"
 }

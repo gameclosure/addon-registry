@@ -3,11 +3,11 @@
 	"versions": [
 		{
 			"version": "0.1.0",
-			"repo": "https://github.com/gameclosure/examples.git",
+			"repo": "https://github.com/gameclosure/fonteditor.git",
 			"basil": ["*"]
 		}
 	],
-	"description": "Anotated example code demostrating features of the Game Closure DevKit",
+	"description": "A plugin to generate bitmap fonts for the Game Closure DevKit",
 	"maintainers": [
 		{
 			"name": "Arno van der Vegt",
@@ -20,6 +20,6 @@
 			"web": "gameclosure.com"
 		}
 	],
-	"bugs": "https://github.com/gameclosure/examples/issues",
-	"keywords": "example tutorial demo"
+	"bugs": "https://github.com/gameclosure/fonteditor/issues",
+	"keywords": "bitmap font"
 }

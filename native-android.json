@@ -1,3 +1,41 @@
 {
-	"type": "core"
+	"type": "core",
+	"versions": [
+		{
+			"version": "0.1.2",
+			"repo": "https://github.com/gameclosure/native-android.git",
+			"commit": "920801e9fe2dc01e4b7c688efe377d1b70e635de",
+			"basil": ["*"]
+		}
+	],
+	"description": "",
+	"maintainers": [
+		{
+			"name": "Jared Petker",
+			"email": "jared@gameclosure.com",
+			"web": "gameclosure.com"
+		},
+		{
+			"name": "Derek Burch",
+			"email": "derek@gameclosure.com",
+			"web": "gameclosure.com"
+		},
+		{
+			"name": "Chris Taylor",
+			"email": "chris@gameclosure.com",
+			"web": "gameclosure.com"
+		},
+		{
+			"name": "Tom Fairfield",
+			"email": "tom@gameclosure.com",
+			"web": "gameclosure.com"
+		},
+		{
+			"name": "Martin Hunt",
+			"email": "martin@gameclosure.com",
+			"web": "gameclosure.com"
+		}
+	],
+	"bugs": "https://github.com/gameclosure/native-android/issues",
+	"keywords": "native android"
 }
