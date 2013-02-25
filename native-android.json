@@ -8,7 +8,7 @@
 			"basil": ["*"]
 		}
 	],
-	"description": "",
+	"description": "native-android is the Game Closure Android layer of DevKit which allows for the deployment of games built on the GC DevKit to android devices",
 	"maintainers": [
 		{
 			"name": "Jared Petker",
