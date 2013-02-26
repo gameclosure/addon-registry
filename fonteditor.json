@@ -4,13 +4,13 @@
 		{
 			"version": "0.1.0",
 			"repo": "https://github.com/gameclosure/fonteditor.git",
-			"commit": "da6ff6fd6b349022a370c8dffe57a8587de856ee",
+			"commit": "415929fbecbe9e8003fd0a65042bff8e40745bc4",
 			"basil": ["*"]
 		},
 		{
 			"version": "0.1.1",
 			"repo": "https://github.com/gameclosure/fonteditor.git",
-			"commit": "836fe9598b7d1393eb3dc8e62b05c46174e9f6f2",
+			"commit": "bcbed64400a22bc2a68f950ee62d779e276c45b4",
 			"basil": ["release-0.1.2"]
 		}
 	],
