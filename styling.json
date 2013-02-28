@@ -1,0 +1,21 @@
+{
+	"type": "user",
+	"versions": [
+		{
+			"version": "0.1.0",
+			"repo": "https://github.com/gameclosure/addon-styling.git",
+			"commit": "master",
+			"basil": ["*"]
+		}
+	],
+	"description": "A plugin to change the style of the Game Closure DevKit",
+	"maintainers": [
+		{
+			"name": "Arno van der Vegt",
+			"email": "arno@gameclosure.com",
+			"web": "gameclosure.com"
+		}
+	],
+	"bugs": "https://github.com/gameclosure/addon-styling/issues",
+	"keywords": "style"
+}
