@@ -1,0 +1,21 @@
+{
+	"type": "user",
+	"versions": [
+		{
+			"version": "0.1.0",
+			"repo": "https://github.com/gameclosure/addon-timemachine.git",
+			"commit": "master",
+			"basil": ["*"]
+		}
+	],
+	"description": "Record and replay games in the Game Closure DevKit",
+	"maintainers": [
+		{
+			"name": "Arno van der Vegt",
+			"email": "arno@gameclosure.com",
+			"web": "gameclosure.com"
+		}
+	],
+	"bugs": "https://github.com/gameclosure/addon-timemachine/issues",
+	"keywords": "record replay time delay speed timemachine"
+}
