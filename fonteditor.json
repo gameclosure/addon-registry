@@ -4,14 +4,8 @@
 		{
 			"version": "0.1.0",
 			"repo": "https://github.com/gameclosure/fonteditor.git",
-			"commit": "9ee28213f94281ede8070c858095bcc6c382b8dc",
+			"commit": "master",
 			"basil": ["*"]
-		},
-		{
-			"version": "0.1.1",
-			"repo": "https://github.com/gameclosure/fonteditor.git",
-			"commit": "bcbed64400a22bc2a68f950ee62d779e276c45b4",
-			"basil": ["release-0.1.2"]
 		}
 	],
 	"description": "A plugin to generate bitmap fonts for the Game Closure DevKit",
