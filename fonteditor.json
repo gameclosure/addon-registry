@@ -3,7 +3,7 @@
 	"versions": [
 		{
 			"version": "0.1.0",
-			"repo": "https://github.com/gameclosure/fonteditor.git",
+			"repo": "https://github.com/gameclosure/addon-fonteditor.git",
 			"commit": "master",
 			"basil": ["*"]
 		}
@@ -21,6 +21,6 @@
 			"web": "gameclosure.com"
 		}
 	],
-	"bugs": "https://github.com/gameclosure/fonteditor/issues",
+	"bugs": "https://github.com/gameclosure/addon-fonteditor/issues",
 	"keywords": "bitmap font"
 }
