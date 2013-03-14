@@ -1,0 +1,21 @@
+{
+	"type": "user",
+	"versions": [
+		{
+			"version": "0.1.0",
+			"repo": "https://github.com/gameclosure/addon-fps.git",
+			"commit": "master",
+			"basil": ["*"]
+		}
+	],
+	"description": "A plugin to add a button to the simulator that opens an FPS graph",
+	"maintainers": [
+		{
+			"name": "Mario Balibrera",
+			"email": "mario@gameclosure.com",
+			"web": "gameclosure.com"
+		}
+	],
+	"bugs": "https://github.com/gameclosure/addon-fps/issues",
+	"keywords": "fps frames per second"
+}
